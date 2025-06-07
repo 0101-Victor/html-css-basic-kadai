@@ -1,10 +1,13 @@
+html {
+    font-size: 20px;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 20px;
   text-align: center;
 }
 
-.blue, pink {
+.blue {
     color: skyblue;
     }
 
@@ -22,10 +25,6 @@ h1 {
     border-bottom: solid 3px rgb(115, 115, 114);
 }
 
-div {
-    font-weight: normal;
-}
-
-div {
+#basic > p {
     font-weight: bold;
 }
